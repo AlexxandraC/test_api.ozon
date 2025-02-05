@@ -1,4 +1,6 @@
 from selenium.webdriver.common.by import By
+
+
 class ProductPage:
 
     def __init__(self, browser):
